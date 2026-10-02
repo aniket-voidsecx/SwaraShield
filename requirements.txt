@@ -1,0 +1,18 @@
+# Core
+numpy
+scipy
+soundfile
+onnxruntime
+
+# LiveKit / realtime audio
+livekit
+livekit-api
+
+# Environment
+python-dotenv
+
+# Testing
+pytest
+
+# Optional development tools
+ruff
